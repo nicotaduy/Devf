@@ -1,0 +1,21 @@
+
+
+.container{
+    border: 1px black solid;
+    height: 400px;
+    display: flex;
+    /* Mueve elementos horizontal */
+    justify-content: center;
+    /* Mueve elementos vertical */
+    align-items: center;
+    /* Invierte los ejes */
+    flex-direction: column-reverse ;
+}
+{
+    border: 1px blue solid;
+    height: 30%;
+width: 40%;}
+.hija{
+    border: 1px pink solid;
+    height: 30%;
+width: 40%;}

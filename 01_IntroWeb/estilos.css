@@ -1,0 +1,15 @@
+/* Selector{
+    propiedades : valor;
+} */
+*{background-color: #7fffd4;}
+h1 {
+    color: azure;
+    text-align: center;}
+    p {color: yellow ;
+    font-size: large;
+    font-family: 'Dancing Script', cursive;}
+    a {text-decoration: none;
+    color: tomato;}
+    .l1{ color: wheat;}
+    .l2{ color: yellowgreen;}
+    

@@ -1,0 +1,57 @@
+.All{ border: 1px green solid;
+width: 1260px;
+height:700px ;}
+.top{border: 1px coral solid;
+height: 100px;
+padding-top: 5px;}
+.gmail{ font-size: small;
+border: 1px black solid;
+width: 40px;
+display: inline-block;
+margin-left: 1100px;
+}
+.imagenes{ font-size: small;
+    border: 1px black solid;
+    width: 60px;
+    display: inline-block;
+}
+.icono{border: 1px blue solid;
+    display: inline-block;
+    width: 20px;
+}
+.medio{ border: 1px cornflowerblue solid;
+margin-left: 325px;
+width: 600px;
+height: 500px;
+
+}
+.red{width: 20px;
+border-radius: 100%;}
+.gif{ border: 1px purple solid;
+margin-top: 40px;
+height: 250px;
+padding-left:  75px;
+}
+.google{margin: 0px;
+width: 450px;
+height: 250px;}
+.buscador{border: 1px coral solid;
+    height: 40px;
+    padding-left: 110px;
+}
+.barra{min-height:30px;
+min-width: 375px;
+border-radius: 50px;}
+.botones{ border: 1px green solid;
+height: 70px;
+padding-left: 135px;}
+.link{ color: gray;
+text-decoration:gray;}
+.boton1{width: 160px;
+height: 40px;
+font-size: smaller;}
+.boton2{width: 160px;
+height: 40px;
+font-size: smaller;
+color: gray;
+}

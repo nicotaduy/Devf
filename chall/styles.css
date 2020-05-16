@@ -1,0 +1,114 @@
+.Abuelo{border: 1px black solid;
+height: 700px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.padre{border: 1px blue solid;
+width: 30%;
+height: 30%;
+display: flex;
+justify-content: space-around;
+flex-direction: column;
+align-items: center;}
+.madre{border: 1px pink solid;
+    width: 30%;
+    height: 30%;
+    display: flex;
+justify-content: space-around;
+align-items: center
+}
+.hijo1{border: 1px black solid;
+    width: 30%;
+    height: 30%;
+    display: flex;
+justify-content: space-around;
+flex-direction: column;
+align-items: center;
+}
+.hijo2{border: 1px black solid;
+    width: 30%;
+    height: 30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center}
+.hijo3{border: 1px black solid;
+    width: 30%;
+    height: 30%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;}
+.hijo4{border: 1px black solid;
+    width: 30%;
+    height: 30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center}
+.hijo5{border: 1px black solid;
+    width: 30%;
+    height: 30%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;}
+.hijo6{border: 1px black solid;
+    width: 30%;
+    height: 30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center}
+.nieto1{border: 1px black solid;
+    width: 30%;
+    height: 30%;}
+.nieto2{border: 1px black solid;
+    width: 30%;
+    height: 30%;}
+.nieto3{border: 1px black solid;
+    width: 30%;
+    height: 30%;}
+.nieto4{border: 1px black solid;
+    width: 30%;
+    height: 30%;}
+.nieto5{border: 1px black solid;
+    width: 30%;
+    height: 30%;}
+.nieto6{border: 1px black solid;
+    width: 30%;
+    height: 30%;}
+.nieto7{border: 1px black solid;
+    width: 30%;
+    height: 30%;}
+.nieto8{border: 1px black solid;
+    width: 30%;
+    height: 30%;}
+.nieto9{border: 1px black solid;
+    width: 30%;
+    height: 30%;}
+.nieto10{border: 1px black solid;
+    width: 30%;
+    height: 30%;}
+.nieto11{border: 1px black solid;
+    width: 30%;
+    height: 30%;}
+.nieto12{border: 1px black solid;
+    width: 30%;
+    height: 30%;}
+.nieto13{border: 1px black solid;
+    width: 30%;
+    height: 30%;}
+.nieto14{border: 1px black solid;
+    width: 30%;
+    height: 30%;}
+.nieto15{border: 1px black solid;
+    width: 30%;
+    height: 30%;}
+.nieto16{border: 1px black solid;
+    width: 30%;
+    height: 30%;}
+.nieto17{border: 1px black solid;
+    width: 30%;
+    height: 30%;}
+.nieto18{border: 1px black solid;
+    width: 30%;
+    height: 30%;}

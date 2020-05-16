@@ -1,0 +1,40 @@
+.blue{ border: 1px blue solid;
+width: 1300px;
+height: 700px;
+background-color: blue;
+display: flex;
+flex-direction: column;
+justify-content: space-between}
+.blanco-1{
+    border-color: 1px white solid;
+    width: 25%;
+    height: 40%;
+    display: flex;
+    background-color: white;
+  
+}
+.blanco-2{
+    border-color: 1px white solid;
+    width: 25%;
+    height: 40%;
+    display: flex;
+    background-color: white;
+display: flex;
+justify-content: flex-end;
+flex-direction: column;
+}
+.rojo-1{
+    border-color: 1px red solid;
+    width: 90%;
+    height: 90%;
+    background-color: red;
+
+}
+.rojo-2{
+    border-color: 1px red solid;
+    width: 90%;
+    height: 90%;
+    background-color: red;
+
+}
+.blanco-3{}

@@ -1,0 +1,59 @@
+.my-image{
+    width: 800px;
+    height: 450px;
+}
+
+.my-carousel{
+    width: 700px;
+    height: 450px;
+    display: flex;
+    margin-top:70px;
+    margin-buttom:70px;
+
+}
+
+.products {
+
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    
+
+}
+
+.my-card {
+    background-color: rgba(0, 0, 0, 0.808);
+
+}
+
+h5, p {
+    color: white;
+
+}
+
+.fotos{
+    display: flex;
+    justify-content: center;
+}
+.titulo1 {
+  font-family: cursive;
+  font-size: 40px;
+  margin-right: 35px;
+}
+
+.my-i{
+  border-radius: 25px;
+}
+.my-b{
+  border-radius: 25px;
+}
+
+.logo {
+  
+}
+
+.card {
+   display: flex;
+   justify-content: center;
+}
+
